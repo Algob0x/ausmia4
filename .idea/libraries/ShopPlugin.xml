@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ShopPlugin">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../PLUGINMARKET/ShopPlugin-main/out/artifacts/ShopPlugin_jar/ShopPlugin.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../PLUGINMARKET/ShopPlugin-main/out/artifacts/ShopPlugin_jar/ShopPlugin.jar!/" />
+    </SOURCES>
+  </library>
+</component>
